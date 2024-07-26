@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes" thread-count="1">
+<test name="Smoke_Test">
+		<classes>
+			<class name="com.Spree.Address.Contries.token"/>
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

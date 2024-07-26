@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "data": {
+        "user_type": "individual",
+        "email": "icmr@mbox.re",
+        "user_name": "Kite Connect",
+        "user_shortname": "Connect",
+        "broker": "ZERODHA",
+        "exchanges": [
+            "NSE",
+            "NFO",
+            "BFO",
+            "CDS",
+            "BSE",
+            "MCX",
+            "BCD",
+            "MF"
+        ],
+        "products": [
+            "CNC",
+            "NRML",
+            "MIS",
+            "BO",
+            "CO"
+        ],
+        "order_types": [
+            "MARKET",
+            "LIMIT",
+            "SL",
+            "SL-M"
+        ],
+        "avatar_url": "abc",
+        "user_id": "icmr@mbox.re",
+        "api_key": "Pratikjarvis",
+        "access_token": "1234",
+        "public_token": "123456",
+        "enctoken": "1111",
+        "login_time": "2021-01-01 16:15:14",
+        "meta": {
+            "demat_consent": "physical"
+        }
+    }
+}

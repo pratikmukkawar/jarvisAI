@@ -30,7 +30,7 @@ public class req2 {
 		//validations
 		int val1=response.getStatusCode();
 		System.out.println(val1);
-		Assert.assertEquals(val1,200);
+		Assert.assertEquals(ail);
 		
 		//Varification
 		String statusline = response.getStatusLine();

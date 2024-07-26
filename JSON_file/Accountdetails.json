@@ -1,0 +1,16 @@
+{
+  "user": {
+    "email": "YMJYUJP@spree.com",
+    "first_name": "Amit",
+    "last_name": "Shaw",
+    "selected_locale": "en",
+    "password": "Test#123",
+    "password_confirmation": "Test#123",
+    "public_metadata": {
+      "user_segment": "supplier"
+    },
+    "private_metadata": {
+      "has_abandoned_cart": false
+    }
+  }
+}

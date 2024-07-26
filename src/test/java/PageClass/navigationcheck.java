@@ -1,17 +1,16 @@
 package PageClass;
 
-import static BaseClass.baseclass.driver;
-
 import org.testng.annotations.Test;
 
 import BaseClass.baseclass;
 
 public class navigationcheck extends baseclass {
-	@Test
-	public static void googleops() {
+	@Test(priority = 1)
+	public void googleops() {
 		
-		chromelaunch();
-		driver.get("https://www.facebook.com/");
+
+	driver.get("https://demo.spreecommerce.org/login");
+		
 		
 		
 }
